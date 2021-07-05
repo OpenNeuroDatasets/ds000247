@@ -10,7 +10,7 @@
 
 
 ## Description
-
+ 
 
 **Experiment**
 
@@ -21,7 +21,7 @@
 - Recorded at the Montreal Neurological Institute in 2012-2016
 - Acquisition with CTF 275 MEG system at 2400Hz sampling rate
 - Anti-aliasing low-pass filter at 600Hz, files may be saved with or without the CTF 3rd order gradient compensation
-- Recorded channels (at least 297), including:
+- Recorded channels (at least 297), include:
   * 26 MEG reference sensors (#2-#27)
   * 270 MEG axial gradiometers (#28-#297)
   * 1 ECG bipolar (EEG057/#298) - Not available in the empty room recordings
