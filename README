@@ -37,11 +37,9 @@ Niso G., Rogers C., Moreau J.T., Chen L.Y., Madjar C., Das S., Bock E., Tadel F.
 - The anatomical fiducials (NAS, LPA, RPA) have already been marked and saved in the files fiducials.m 
 
 **BIDS**
-
 The data in this dataset has been organized according to the MEG-BIDS specification (Brain Imaging Data Structure, http://bids.neuroimaging.io) (Niso et al. 2018)
 
 Niso G., Gorgolewski K.J., Bock E., Brooks T.L., Flandin G., Gramfort A., Henson R.N., Jas M., Litvak V., Moreau J., Oostenveld R., Schoffelen J.M., Tadel F., Wexler J., Baillet S. (2018). MEG-BIDS: an extension to the Brain Imaging Data Structure for magnetoencephalography. Scientific Data; 5, 180110. https://doi.org/10.1038/sdata.2018.110
-
 
 **Release history:**
 2016-12-01: initial release
