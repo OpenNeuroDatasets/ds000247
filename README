@@ -12,11 +12,9 @@ Niso G., Rogers C., Moreau J.T., Chen L.Y., Madjar C., Das S., Bock E., Tadel F.
 ## Description
 
 **Experiment**
-
 - 5 subjects x 5 minute resting sessions, eyes open 
 
 **MEG acquisition**
-
 - Recorded at the Montreal Neurological Institute in 2012-2016
 - Acquisition with CTF 275 MEG system at 2400Hz sampling rate
 - Anti-aliasing low-pass filter at 600Hz, files may be saved with or without the CTF 3rd order gradient compensation
