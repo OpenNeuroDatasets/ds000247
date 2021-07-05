@@ -17,5 +17,6 @@
         "Niso G., Rogers C., Moreau J.T., Chen L.Y., Madjar C., Das S., Bock E., Tadel F., Evans A.C., Jolicoeur P.,  Baillet S. (2016). OMEGA: The Open MEG Archive. NeuroImage 124, 1182-1187. doi:  https://doi.org/10.1016/j.neuroimage.2015.04.028. ",
         "https://www.mcgill.ca/bic/resources/omega",
         "https://openneuro.org/datasets/ds000247"
-    ]
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds000247.v1.0.0"
 }
