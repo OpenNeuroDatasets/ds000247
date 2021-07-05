@@ -1,3 +1,8 @@
+1.0.0 2021-07-05
+  - Anonymized datasets with dates 1925 or earlier to prevent errors if converted to fif 
+  - Update corresponding *_scans.tsv accordingly and follow the YYYY-MM-DDTHH:mm:ss format spec for date time information 
+  - Sessions renamed from '0001' to '01' for readability
+  - Compliant with BIDS v.1.6.0
 1.0.0	2021-07-01
 
 	- Anonymize datasets: set date equal to 1925 (instead of 1890) to prevent errors  when converted into fif.
