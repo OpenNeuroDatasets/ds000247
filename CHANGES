@@ -1,3 +1,5 @@
+1.0.1 2021-09-15
+  - Reload *.meg4 data for subjects sub-0004 and sub-0007 in case it was not properly uploaded before
 1.0.0 2021-07-05
   - Anonymized datasets with dates 1925 or earlier to prevent errors if converted to fif 
   - Update corresponding *_scans.tsv accordingly and follow the YYYY-MM-DDTHH:mm:ss format spec for date time information 
