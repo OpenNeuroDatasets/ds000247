@@ -1,3 +1,5 @@
+1.0.2 2024-04-24
+  - Update `IntendedFor` and `AssociatedEmptyRoom` fields to be relative to the subject directory
 1.0.1 2021-09-15
   - Reload *.meg4 data for subjects sub-0004 and sub-0007 in case it was not properly uploaded before
 1.0.0 2021-07-05
